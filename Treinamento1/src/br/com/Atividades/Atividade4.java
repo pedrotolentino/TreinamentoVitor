@@ -18,7 +18,6 @@ public static void main(String[] args) {
   if(num % 2==0 ) {
    System.out.println("Este numero é par"+num);
    
-
   }
   num++;
  }
