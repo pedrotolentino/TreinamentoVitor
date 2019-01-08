@@ -11,8 +11,8 @@ public class Atividade2 {
 //Primeira solucao
 //		int num1;
 //		int num2;
-		
-//			for(num1 =1; num1<9; num1++) {
+//		
+//			for(num1 =1; num1<=9; num1++) {
 //				System.out.println("Tabuada de " + num1);
 //				for(num2 = 1; num2<10; num2++) {
 //					System.out.println(num1+" X "+num2 +" = "+num1*num2 );
@@ -20,13 +20,13 @@ public class Atividade2 {
 //		}
 		
 		
-//		Segunda solução		
+//		Segunda solucao		
 //		System.out.println("Entre com o numero da tabuada");
 //		int entrada = scan.nextInt();
 //		
-//		int mult = 0;
+//		int mult = 1;
 //		
-//		while (mult < 10) {
+//		while (mult <= 9) {
 //		
 //			int result  = entrada * mult;
 //			System.out.println(entrada+" X "+mult+" = "+result);
