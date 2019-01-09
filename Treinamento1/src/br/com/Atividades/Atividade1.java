@@ -2,6 +2,10 @@ package br.com.Atividades;
 
 import java.util.Scanner;
 
+
+/*
+ * Pedro: Muito bem! Realizou exatamente o que foi solicitado
+ * */
 public class Atividade1 {
 	
 	public static void main(String[] args) {
@@ -24,7 +28,7 @@ public class Atividade1 {
 			
 			double media = (par1+par2+par3)/(peso1+peso2+peso3);
 			
-			System.out.println("Media Total é : "+media);
+			System.out.println("Media Total ï¿½ : "+media);
 
 		}
 

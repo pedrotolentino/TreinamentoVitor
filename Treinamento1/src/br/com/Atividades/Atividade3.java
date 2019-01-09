@@ -1,5 +1,8 @@
 package br.com.Atividades;
 
+/**
+ * Pedro: Parab√©ns! O programa realiza exatamente o que foi solicitado.
+ * */
 import java.util.Scanner;
 
 public class Atividade3 {
@@ -15,7 +18,7 @@ public class Atividade3 {
 		for (int i =2; i<= num; i++) {
 			fat*=i;
 		}
-		System.out.println("O fatorial de "+num+ " È igual a "+fat);
+		System.out.println("O fatorial de "+num+ " ÔøΩ igual a "+fat);
 	}
 
 }

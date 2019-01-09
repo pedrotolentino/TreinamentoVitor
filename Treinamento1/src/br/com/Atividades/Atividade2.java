@@ -2,6 +2,18 @@ package br.com.Atividades;
 
 import java.util.Scanner;
 
+/**
+ * Pedro: (07/01) - A implementação com o FOR está ótima e é exatamente o que o exercício pedia, 
+ *                  mas a com WHILE não segue o comando do exercício porque não foi pedido para receber um número e 
+ *                  estão sendo mostrados os valores das multiplicações de 0 a 8.
+ *                  Ainda está faltando uma implementação segundo as estruturas de controle abordadas no Módulo 3.
+ *                  Em caso de dúvidas, rever o que foi ensinado no Módulo.
+ *                  
+ *        (09/01) - A implementação com WHILE agora mostra as multiplicações de 1 a 9 mas ainda está pedindo um número como entrada,
+ *                  logo, ainda não realiza o que é pedido no exercício. Lembre que a saída no console para todas as implementações
+ *                  deve ser a mesma!
+ *                  Ainda não foi implementada última forma de estrutura de repetição.
+ * */
 public class Atividade2 {
 
 	public static void main(String[] args) {
@@ -33,7 +45,7 @@ public class Atividade2 {
 //            mult++;
 //
 //		}
-
+//
 	}
 
 }
