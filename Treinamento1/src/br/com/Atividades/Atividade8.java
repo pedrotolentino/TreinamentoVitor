@@ -1,5 +1,9 @@
 package br.com.Atividades;
 
+/**
+ * Pedro: (13/01) - O programa ainda mostra a soma enquanto esta Ã© menor que 100, mas o loop ainda Ã© executado.
+ *                  Procure uma maneira de terminar o loop quando o valor pedido para a soma for atingido.
+ * */
 public class Atividade8 {
 
 	public static void main(String[] args) {
@@ -12,7 +16,7 @@ public class Atividade8 {
 			soma+=num;
 			
 			if (soma <=100) {
-				System.out.println("numero é "+soma);
+				System.out.println("numero ï¿½ "+soma);
 				
 			}
 			
@@ -28,5 +32,5 @@ public class Atividade8 {
 
 
 
-///Exercício do dia: Faça um programa que, começando em 0, imprima os números seguintes, enquanto a soma dos números já
+///Exercï¿½cio do dia: Faï¿½a um programa que, comeï¿½ando em 0, imprima os nï¿½meros seguintes, enquanto a soma dos nï¿½meros jï¿½
 //impressos for menor que 100

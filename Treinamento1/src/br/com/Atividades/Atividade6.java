@@ -2,6 +2,9 @@ package br.com.Atividades;
 
 import java.util.Scanner;
 
+/**
+ * Pedro: (13/01) - DÃª uma revisada na lÃ³gica, pois todas as datas vÃ¡lidas testadas foram dadas como invÃ¡lidas.
+ * */
 public class Atividade6 {
 
 	public static void main(String[] args) {
@@ -16,16 +19,16 @@ public class Atividade6 {
 		System.out.println("Entre com o ano!");
 		int ano = scan.nextInt();
 		
-//Abaixo if usado criando uma condição para cada mês onde entra na condição dos meses que terminam no dia 31
+//Abaixo if usado criando uma condiï¿½ï¿½o para cada mï¿½s onde entra na condiï¿½ï¿½o dos meses que terminam no dia 31
 //e os meses que terminam no dia 30 e o unico mes que termina no dia 28		
 		if(dia<=31 && mes==1 && mes==3 && mes==5 && mes==7 && mes==8 && mes==10 && mes==12 && ano<=2019) {
-			System.out.println("A data é valida: "+dia+"/"+mes+"/"+ano);
+			System.out.println("A data ï¿½ valida: "+dia+"/"+mes+"/"+ano);
 			
 		}else if(dia<=28 && mes==2 && ano<=2019) {
-			System.out.println("A data é valida: "+dia+"/"+mes+"/"+ano);
+			System.out.println("A data ï¿½ valida: "+dia+"/"+mes+"/"+ano);
 		
 		}else if(dia<=30 && mes==4 && mes==6 && mes==9 && mes==11 && ano<=2019) {
-			System.out.println("A data é valida: "+dia+"/"+mes+"/"+ano);
+			System.out.println("A data ï¿½ valida: "+dia+"/"+mes+"/"+ano);
 		
 		}else {
 			System.out.println("Data invalida!");

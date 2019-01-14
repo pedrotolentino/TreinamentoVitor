@@ -29,3 +29,9 @@ Você deverá informar os números normais e gravar a posição correspondente n
 -lerMinuto() - retorna o minuto atual do relógio. Preste atenção que, este método não deve retornar a posição do ponteiro de minutos e sim quantos minutos ele representa. Por exemplo, caso o atributo ponteiroMinuto esteja com o valor 3, este método deve retornar 15, que é o minuto correspondente a esta posição.
 -lerSegundo() - retorna o segundo atual do relógio. Usar a mesma lógica do método lerMinuto().
 #
+#Atividade 3(12/01) - Crie uma classe "Fracao" que representa uma fração matemática, Esta classe deve armazenar o numerador e o denominador da fração. Esta classe deve ter um método que realize a multiplicação de uma fração que será passada como parâmetro com a fração instanciada naquele obejto e retornar a fração resultante. Na classe Principal instancie duas frações, defina seus valores calcule o valor da multiplicação entre elas, salve o resultado em uma terceira fração e mostre o resultado na tela
+#Atividade 4(13/01) - Crie uma classe "Televisão" que deverá armazenar as informações de Canal e Volume. Além disso, crie uma classe "ControleRemoto" que pode controlar o volume e trocar os canais da televisão. As ações que o controle pode fazer são:
+- Aumentar ou diminuir a potência do volume do som em uma unidade por vez;
+- Aumentar ou diminuir o número do canal em uma unidade;
+- Trocar para um canal indicado;
+- Consultar o valor do volume do som e o canal selecionado.

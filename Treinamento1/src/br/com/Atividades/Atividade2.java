@@ -13,6 +13,8 @@ import java.util.Scanner;
  *                  logo, ainda não realiza o que é pedido no exercício. Lembre que a saída no console para todas as implementações
  *                  deve ser a mesma!
  *                  Ainda não foi implementada última forma de estrutura de repetição.
+ *                  
+ *        (13/01) - O programa ainda não foi alterado.
  * */
 public class Atividade2 {
 

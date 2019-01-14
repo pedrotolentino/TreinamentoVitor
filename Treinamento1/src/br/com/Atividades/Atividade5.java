@@ -1,5 +1,10 @@
 package br.com.Atividades;
 
+/**
+ * Pedro: (13/01) - As variáveis foram declaradas mas não foram inicializadas.
+ *                  Lembre que no Java, todas as variáveis de tipos primitivos devem ser inicializadas
+ *                  Lembre-se que, para este exercício, a forma de calcular o empréstimo vai variar de acordo com o tipo de cargo.
+ * */
 public class Atividade5 {
 
 	public static void main(String[] args) {
